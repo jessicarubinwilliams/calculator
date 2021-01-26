@@ -2,7 +2,7 @@
 
 #### _Very basic calculator_
 
-#### By _**Jessica R. Williams and HR Williams**_
+#### By _**Jessica R. Williams and James Wyn**_
 
 ## Technologies Used
 
